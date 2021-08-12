@@ -3,6 +3,6 @@
 </p>
 
 
-![Cristianmarints's github stats](https://github-readme-stats.vercel.app/api?username=cristianmarint&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
+![weekstudy's github stats](https://github-readme-stats.vercel.app/api?username=weekstudy&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
 
-⭐️ From [cristianmarint](https://github.com/[cristianmarint])
+⭐️ From [weekstudy](https://github.com/[weekstudy])
