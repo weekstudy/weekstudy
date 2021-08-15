@@ -1,7 +1,7 @@
 
 <img src="https://github.com/weekstudy/weekstudy/blob/main/gif/home.gif" >
 <img align="right" src="https://github.com/weekstudy/weekstudy/blob/main/icon/profile.gif" width="500" alt="Github">
-
+<h2> Hey there! I'm weekstudy. <img src="https://github.com/weekstudy/weekstudy/blob/main/icon/Hi.gif" width="25"></h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
