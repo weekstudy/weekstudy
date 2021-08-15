@@ -2,11 +2,15 @@
 <img src="https://github.com/weekstudy/weekstudy/blob/main/gif/home.gif" >
 <img align="right" src="https://github.com/weekstudy/weekstudy/blob/main/icon/profile.gif" width="500" alt="Github">
 <h2> Hey there! I'm weekstudy. <img src="https://github.com/weekstudy/weekstudy/blob/main/icon/Hi.gif" width="25"></h2>
+
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/Yaronzz)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:yaronhuang@foxmail.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaronzz)
+
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
