@@ -1,6 +1,6 @@
 
 <img src="https://github.com/weekstudy/weekstudy/blob/main/gif/home.gif" >
-<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="480" height="480" alt="Github">
+<img align="right" src="https://github.com/weekstudy/weekstudy/blob/main/icon/profile.gif" width="500" alt="Github">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
