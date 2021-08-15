@@ -1,5 +1,5 @@
 
-<img src="https://github.com/weekstudy/weekstudy/blob/main/gif/profile.gif" >
+<img src="https://github.com/weekstudy/weekstudy/blob/main/gif/home.gif" >
 <img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="480" height="480" alt="Github">
 
 <p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
