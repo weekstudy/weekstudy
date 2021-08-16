@@ -26,7 +26,7 @@
 - 💻 &nbsp; Python | C/C++  
 - 🌐 &nbsp; Tensorflow | Pytorch | Paddle | CSS | Django 
 - 🛢 &nbsp; MySQL | 
-- 🔧 &nbsp; | PyCharm | Visual Studio code | Xcode | Git
+- 🔧 &nbsp; PyCharm | Visual Studio code | Xcode | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop |
 
 <br>
