@@ -12,10 +12,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning OCR Application Development
+- 🔭 &nbsp; I’m currently learning OCR Application Development and PyQt5
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; IOS developer and front-end web developer.
+- 💼 &nbsp; GUI development and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -23,10 +23,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++  
-- 🌐 &nbsp; Tensorflow | Pytorch | Paddle | CSS | Django 
-- 🛢 &nbsp; MySQL 
+- 🌐 &nbsp; Tensorflow | Pytorch | PaddlePaddle | Django 
+- 🛢 &nbsp;  MySQL 
 - 🔧 &nbsp; Linux | PyCharm | Visual Studio code | Xcode | Git
-- 🖥 &nbsp; Illustrator | Photoshop 
+- 🖥 &nbsp;  Illustrator | Photoshop 
 
 <br>
 
