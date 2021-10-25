@@ -4,7 +4,7 @@
 <h2> Hey there! I'm weekstudy. <img src="https://github.com/weekstudy/weekstudy/blob/main/icon/Hi.gif" width="25"></h2>
 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhouqiangweek@foxmail.com)](mailto:yaronhuang@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhouqiangweek@foxmail.com)](mailto:zhouqiangweek@foxmail.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/11915534)](https://space.bilibili.com/11915534)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/weekstudy)](https://github.com/weekstudy)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=weekstudy)
