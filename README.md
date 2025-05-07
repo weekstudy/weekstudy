@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning OCR Application Development and PyQt5
+- 🔭 &nbsp; I’m currently learning Autodrive System Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; GUI development and front-end web developer.
